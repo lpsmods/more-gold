@@ -14,12 +14,7 @@
       },
       "minecraft:block_placer": {
         "block": "moregold:golden_fruit_sapling_block",
-        "on_use": [
-          "minecraft:grass",
-          "minecraft:dirt",
-          "minecraft:podzol",
-          "minecraft:dirt_with_roots"
-        ]
+        "on_use": ["minecraft:grass", "minecraft:dirt", "minecraft:podzol", "minecraft:dirt_with_roots"]
       }
     }
   }

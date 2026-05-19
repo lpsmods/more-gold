@@ -61,10 +61,7 @@
       "event:bone_meal_growth": {
         "decrement_stack": {},
         "run_command": {
-          "command": [
-            "particle minecraft:crop_growth_emitter ~ ~ ~",
-            "playsound item.bone_meal.use @p ~ ~ ~"
-          ]
+          "command": ["particle minecraft:crop_growth_emitter ~ ~ ~", "playsound item.bone_meal.use @p ~ ~ ~"]
         },
         "trigger": {
           "event": "event:increase_stage"
