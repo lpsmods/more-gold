@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "More Gold Add-On",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "*.json": "jsonc",
+    },
+  },
+}
