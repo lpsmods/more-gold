@@ -18,7 +18,7 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 | Key       | Value            |
 | --------- | ---------------- |
 | namespace | `lpsm_more_gold` |
-| more-gold | `more-gold`      |
+| slug      | `more-gold`      |
 
 ## LINKS
 
