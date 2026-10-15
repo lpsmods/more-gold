@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/crop",
-  "textures": {
-    "crop": "moregold:block/golden_fruit_stage2"
-  }
-}
